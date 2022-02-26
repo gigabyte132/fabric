@@ -2,15 +2,15 @@ module github.com/hyperledger/fabric
 
 go 1.14
 
-// develop
-replace github.com/hyperledger/fabric => ./
-
-replace github.com/hyperledger/fabric-protos-go => github.com/scientificideas/fabric-protos-go v0.0.0-20211129231519-47ba956498d8
-
-replace github.com/hyperledger/fabric-config => github.com/scientificideas/fabric-config v0.1.1-0.20211022173806-2db6d2f11301
-
-// https://github.com/golang/go/issues/34610
-replace golang.org/x/sys => golang.org/x/sys v0.0.0-20190920190810-ef0ce1748380
+replace (
+	github.com/SmartBFT-Go/consensus => github.com/pfi79/consensus v0.0.0-20220225200548-588cffa4b6db
+	// develop
+	github.com/hyperledger/fabric => ./
+	github.com/hyperledger/fabric-config => github.com/scientificideas/fabric-config v0.1.1-0.20211022173806-2db6d2f11301
+	github.com/hyperledger/fabric-protos-go => github.com/scientificideas/fabric-protos-go v0.0.0-20211129231519-47ba956498d8
+	// https://github.com/golang/go/issues/34610
+	golang.org/x/sys => golang.org/x/sys v0.0.0-20190920190810-ef0ce1748380
+)
 
 require (
 	code.cloudfoundry.org/clock v1.0.0

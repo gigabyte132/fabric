@@ -17,8 +17,6 @@ github.com/Shopify/sarama v1.20.1 h1:Bb0h3I++r4eX333Y0uZV2vwUXepJbt6ig05TUU1qt9I
 github.com/Shopify/sarama v1.20.1/go.mod h1:FVkBWblsNy7DGZRfXLU0O9RCGt5g3g3yEuWXgklEdEo=
 github.com/Shopify/toxiproxy v2.1.4+incompatible h1:TKdv8HiTLgE5wdJuEML90aBgNWsokNbMijUGhmcoBJc=
 github.com/Shopify/toxiproxy v2.1.4+incompatible/go.mod h1:OXgGpZ6Cli1/URJOF1DMxUHB2q5Ap20/P/eIdh4G0pI=
-github.com/SmartBFT-Go/consensus v0.0.0-20220105122543-57ed2ce2c73b h1:1DzPWvXEgDEdqC/tNlXW1WQ2r7x4zhdjrwT49oTOMVU=
-github.com/SmartBFT-Go/consensus v0.0.0-20220105122543-57ed2ce2c73b/go.mod h1:ZOD/ZiAdH9HpqdsJLlUTlbzYBr/qYEzyYx7wClbrH+w=
 github.com/VictoriaMetrics/fastcache v1.5.7 h1:4y6y0G8PRzszQUYIQHHssv/jgPHAb5qQuuDNdCbyAgw=
 github.com/VictoriaMetrics/fastcache v1.5.7/go.mod h1:ptDBkNMQI4RtmVo8VS/XwRY6RoTu1dAWCbrk+6WsEM8=
 github.com/VividCortex/gohistogram v1.0.0 h1:6+hBz+qvs0JOrrNhhmR7lFxo5sINxBCGXrdtl/UvroE=
@@ -213,6 +211,8 @@ github.com/opencontainers/runc v1.0.0-rc8/go.mod h1:qT5XzbpPznkRYVz/mWwUaVBUv2rm
 github.com/opentracing/opentracing-go v1.1.0/go.mod h1:UkNAQd3GIcIGf0SeVgPpRdFStlNbqXla1AfSYxPUl2o=
 github.com/pelletier/go-toml v1.8.0 h1:Keo9qb7iRJs2voHvunFtuuYFsbWeOBh8/P9v/kVMFtw=
 github.com/pelletier/go-toml v1.8.0/go.mod h1:D6yutnOGMveHEPV7VQOuvI/gXY61bv+9bAOTRnLElKs=
+github.com/pfi79/consensus v0.0.0-20220225200548-588cffa4b6db h1:F6TEbXEZB77kfZ9vlN3Zu814Q6uMXbceaJfg/f1ZsTo=
+github.com/pfi79/consensus v0.0.0-20220225200548-588cffa4b6db/go.mod h1:ZOD/ZiAdH9HpqdsJLlUTlbzYBr/qYEzyYx7wClbrH+w=
 github.com/pierrec/lz4 v2.5.0+incompatible h1:MbdIZ43A//duwOjQqK3nP+up+65yraNFyX3Vp6Rwues=
 github.com/pierrec/lz4 v2.5.0+incompatible/go.mod h1:pdkljMzZIN41W+lC3N2tnIh5sFi+IEE17M5jbnwPHcY=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
