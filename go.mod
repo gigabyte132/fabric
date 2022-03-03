@@ -3,7 +3,7 @@ module github.com/hyperledger/fabric
 go 1.14
 
 replace (
-	github.com/SmartBFT-Go/consensus => github.com/pfi79/consensus v0.0.0-20220225200548-588cffa4b6db
+	github.com/SmartBFT-Go/consensus => github.com/pfi79/consensus v0.0.0-20220303142901-b835346a3d23
 	// develop
 	github.com/hyperledger/fabric => ./
 	github.com/hyperledger/fabric-config => github.com/scientificideas/fabric-config v0.1.1-0.20211022173806-2db6d2f11301
